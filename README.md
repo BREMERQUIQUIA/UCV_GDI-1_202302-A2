@@ -14,7 +14,7 @@
 
 ## DOCENTE
 
-- Docente: Eric Gustavo Coronel Castillo
+- Docente: Ing. Eric Gustavo Coronel Castillo
 - Blog: www.desarrollasoftware.com
 - Youtube: www.youtube.com/DesarrollaSoftware
 - Cooreo: ecoronelca@ucvvirtual.edu.pe
