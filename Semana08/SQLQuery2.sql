@@ -25,8 +25,8 @@ go
 
 select *
 from EduTec..Matricula
-where promedio < 11.0
-and IdCursoProg = 8282;
+where promedio >= 11.0
+and IdCursoProg = 8028;
 go 
 -- 	
 select *
